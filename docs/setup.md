@@ -1,0 +1,3 @@
+- go throught
+- api setup
+- web setup
