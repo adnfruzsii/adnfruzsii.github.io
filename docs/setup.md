@@ -1,3 +1,3 @@
-- go throught
+go throught
 - api setup
 - web setup
