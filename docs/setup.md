@@ -1,6 +1,6 @@
 title: PAGE TITLE HERE
 layout: template
-filename: readme.md
+filename: setup.md
 
 go throught
 - api setup
