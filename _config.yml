@@ -1,12 +1,12 @@
 title: fruzsii's site
 description: This is a test site to learn how github pages works
-theme: just-the-docs
 logo: "/docs/images/base.png"
 favicon_ico: "/docs/images/base.png"
+plugins:
+  - jekyll-remote-theme
 
+remote_theme: just-the-docs/just-the-docs
 url: your_repo_url
 
 aux_links:
   Repository: https://github.com/adnfruzsii/adnfruzsii.github.io
-plugins:
-  - jekyll-default-layout
