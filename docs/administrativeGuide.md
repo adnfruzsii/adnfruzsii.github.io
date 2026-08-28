@@ -6,6 +6,3 @@ parent: Overview
 ---
 
 Installation
-go throught
-- api setup
-- web setup
