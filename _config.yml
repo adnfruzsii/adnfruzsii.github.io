@@ -8,3 +8,5 @@ url: your_repo_url
 
 aux_links:
   Repository: https://github.com/adnfruzsii/adnfruzsii.github.io
+plugins:
+  - jekyll-default-layout
