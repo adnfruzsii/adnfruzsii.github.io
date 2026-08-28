@@ -1,6 +1,9 @@
-title: PAGE TITLE HERE
-layout: template
-filename: readme.md
+---
+title: mainReadme
+layout: default
+nav_order: 2
+parent: Overview
+---
 
 
 Main readme document
