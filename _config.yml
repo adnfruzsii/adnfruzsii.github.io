@@ -1,7 +1,7 @@
 title: fruzsii's site
 description: This is a test site to learn how github pages works
-logo: "/docs/images/base.png"
-favicon_ico: "/docs/images/base.png"
+logo: "/docs/images/test.png"
+favicon_ico: "/docs/images/test.png"
 plugins:
   - jekyll-remote-theme
 
